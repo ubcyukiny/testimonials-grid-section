@@ -28,9 +28,11 @@ Users should be able to:
 
 ### Desktop
 
+![](./public/screenshot-desktop.png)
+
 ### Links
 
-- Live Site URL: [link](https://your-live-site-url.com)
+- Live Site URL: [link](https://ubcyukiny.github.io/testimonials-grid-section)
 
 ## My process
 
