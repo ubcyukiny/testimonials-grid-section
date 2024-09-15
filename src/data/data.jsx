@@ -1,5 +1,5 @@
 import danielPFP from "../assets/images/image-daniel.jpg";
-import danielBg from "../assets/images/bg-pattern-quotation.svg";
+import danielBg from "/bg-pattern-quotation.svg";
 import jeanettePFP from "../assets/images/image-jeanette.jpg";
 import jonathanPFP from "../assets/images/image-jonathan.jpg";
 import kiraPFP from "../assets/images/image-kira.jpg";
