@@ -1,12 +1,11 @@
 const ReviewCard = (props) => {
   return (
     <div
-      className="rounded-lg px-8 py-7"
+      className="rounded-lg bg-[right_1.5rem_top] px-8 py-7 shadow-xl xl:bg-[right_5rem_top] xl:py-8 xl:pb-8 xl:pt-[26px]"
       style={{
         backgroundColor: props.bgColor || "#ffffff",
         backgroundImage: `url(${props.bgImage})`,
         backgroundRepeat: "no-repeat",
-        backgroundPosition: "top right 1.5rem",
       }}
     >
       <div className="flex flex-row gap-[1.063rem] pb-[1.125rem]">
