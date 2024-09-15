@@ -3,7 +3,7 @@ import { data } from "./data/data";
 
 function App() {
   return (
-    <main className="font-barlow flex flex-col items-center justify-center text-[.813rem]">
+    <main className="font-barlow flex flex-col items-center justify-center text-[.813rem] xl:h-screen">
       <div className="mx-6 my-[4.375rem] flex flex-col gap-6 pb-6 xl:grid xl:grid-cols-[255px_255px_255px_255px] xl:grid-rows-[282px_266px] xl:gap-x-[1.875rem] xl:gap-y-6">
         <div className="col-span-2 col-start-1">
           <ReviewCard key={data[0].username} {...data[0]} />
